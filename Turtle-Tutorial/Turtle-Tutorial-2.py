@@ -3,7 +3,7 @@ import turtle
 t=turtle.Turtle()
 
 #8 bgpic function
-turtle.bgpic("back.png")
+# turtle.bgpic("back.png")
 
 #1. Speed function
 t.speed(5)
